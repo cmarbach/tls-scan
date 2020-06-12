@@ -12,6 +12,7 @@ echo "    autoconf"
 echo "    automake"
 echo "    libtool"
 echo "    pkg-config"
+echo "    unzip"
 echo "Make sure you have these packages installed before you proceed with tls-scan build"
 echo "continue in a moment ..."
 sleep 10
